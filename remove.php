@@ -27,7 +27,7 @@ function remove_dir_and_files($dir) {
 
 // Now call the functions with $directory name
 
-remove("wp-content/uploads/");
+remove_dir_and_files("wp-content/uploads/");
 
 
 ?>
