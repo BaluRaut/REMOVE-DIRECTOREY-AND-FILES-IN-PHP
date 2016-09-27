@@ -1,5 +1,4 @@
 Renove-DIRECTOREY-AND-FILES-IN-PHP
 ==================================
 
-Using this php code you can easily delete the folde and files, Please read comments  carefully in remove.php file.
-http://www.indeed.com/r/harsha-bandi/5364d7eb327157cb
+Using this php code you can easily delete the folde and files, Please read comments  carefully in remove.php file
